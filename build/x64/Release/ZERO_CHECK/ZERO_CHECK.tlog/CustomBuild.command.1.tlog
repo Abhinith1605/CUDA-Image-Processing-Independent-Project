@@ -1,0 +1,10 @@
+^C:\USERS\ABHIN\ONEDRIVE\DESKTOP\CUDA-IMAGE-PROCESSING-INDEPENDENT-PROJECT\BUILD\CMAKEFILES\035D31A6563CAA457F79FE8F66FCBAFF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/abhin/OneDrive/Desktop/CUDA-Image-Processing-Independent-Project -BC:/Users/abhin/OneDrive/Desktop/CUDA-Image-Processing-Independent-Project/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/abhin/OneDrive/Desktop/CUDA-Image-Processing-Independent-Project/build/cuda_image_processor.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

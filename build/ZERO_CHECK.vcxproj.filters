@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\abhin\OneDrive\Desktop\CUDA-Image-Processing-Independent-Project\build\CMakeFiles\035d31a6563caa457f79fe8f66fcbaff\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{15C0694F-D6B2-3F6D-A2C9-659EA4A1A9C4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
