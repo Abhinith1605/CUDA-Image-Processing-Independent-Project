@@ -5,8 +5,8 @@
 This project implements **GPU-accelerated image processing** using **CUDA** and **OpenCV**.  
 It processes **100 JPG images** using two CUDA kernels executed on the GPU:
 
-**Gaussian Blur (CUDA)**  
-**Sobel Edge Detection (CUDA)**  
+**Gaussian Blur*  
+**Sobel Edge Detection**  
 
 The application loads all images from `data/input`, processes them on the GPU, and writes results to `data/output`.  
 This fulfills all the requirements of the **CUDA at Scale Independent Project**, including:
@@ -78,6 +78,7 @@ The output folder should contain the processed images both blurred and edge dete
 ## Proof of Execution
 
 Link: https://drive.google.com/file/d/1Dm-u7bDpmQj4roMJfyAE7rxhkAdDnHdL/view?usp=sharing
+- Same video uploaded in the coursera website.
 
 ---
 
