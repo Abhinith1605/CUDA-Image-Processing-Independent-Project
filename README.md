@@ -65,7 +65,7 @@ Used for loading, converting, and saving images.
 
 - Note: Before running the command bellow make sure your directory is set to the release folder which is inside the build folder.
 
-command: cuda_image_processor.exe "....\data\input" "....\data\output"
+- **Command:** cuda_image_processor.exe "....\data\input" "....\data\output"
 
 Now open the data folder.
 Then open the output folder.
